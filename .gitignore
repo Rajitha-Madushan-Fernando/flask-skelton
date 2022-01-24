@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Custome files
-.flaskenv
+#.flaskenv
 
 # Distribution / packaging
 .Python
