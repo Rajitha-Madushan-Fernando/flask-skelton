@@ -4,6 +4,7 @@ charset-normalizer==2.0.10
 click==8.0.3
 Flask==2.0.2
 flask-oidc==1.4.0
+-e git+https://github.com/Rajitha-Madushan-Fernando/flask-skelton.git@e92e423d049b7e551f21458dc0d8dd992988c658#egg=flaskr
 gunicorn==20.1.0
 httplib2==0.20.2
 idna==3.3
