@@ -21,5 +21,5 @@ class DevConfig(Config):
     FLASK_ENV = 'development'
     DEBUG = True
     TESTING = True
-    os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = "1"
+    #os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = "1"
 
