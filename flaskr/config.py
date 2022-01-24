@@ -3,6 +3,7 @@ from flask import Flask
 from flask.json import jsonify
 from flask_oidc import OpenIDConnect
 from okta import UsersClient
+import os
 
 app = Flask(__name__)
 
